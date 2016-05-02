@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/mystyle.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <title>Soundcloud</title>
+  </head>
+<body>
+  <div class="container">
+    <div id="header">
+      <!-- navbar -->
+      <div class="navbar">
+        <div class="img-wrapper">
+          <img class="img1" src="assets/logo-icon.png" />
+          <img class="img1" src="assets/logo.png" />
+         </div>
+        <input class="fstbtn color unique1" type="button" value="Create account"/>
+        <input class="fstbtn color unique2" type="button" value="Sign in" />
+        <div class="clear"></div>
+      </div>
+       <!-- navbar end -->
+        <div id="article">
+          <h2>Find the music you love. Dicover new tracks.<br />Connect directly with your favourite artiste.</h2>
+        </div>
+
+        <div class="search-from">
+          <div class="form-holder inline">
+            <form>
+              <input type="search" class="search" placeholder="Search Songs, Artiste"/>
+              <i class="fa fa-search" aria-hidden="true"></i>
+            </form>
+          </div>
+          <div class="upload-button-holder inline">
+            <span class="or">Or</span> <button>Upload your own</button>
+          </div>
+        </div>
+     </div>
+      <div>
+        <div>
+          <h2>Hear what's trending for free on charts<h2>
+        </div>
+        <div class="artwork-wrapper">
+          <div>
+            <img  class="artwork-wrapper images"src="assets/panda.jpg" />
+	    <h4 class="text">Desiigner- "Panda"</h4>
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork1.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork2.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork3.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork4.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork11.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork5.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork6.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork7.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork8.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork9.jpg" />
+          </div>
+          <div>
+            <img class="artwork-wrapper images" src="assets/artwork11.jpg" />
+          </div>
+      </div>
+  </div>
+</body>
+</html>
